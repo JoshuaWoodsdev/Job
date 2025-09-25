@@ -1,4 +1,4 @@
-# LocalHire: Your Local-First Job Marketplace
+# Local-First Job Marketplace
 
 ## 🎯 Product Positioning
 
